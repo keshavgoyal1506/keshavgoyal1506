@@ -6,14 +6,14 @@ I'm a fresh graduate passionate about systems programming and performance optimi
 
 ## 🔧 Skills
 
-- **Languages:** C, C++, Python, SQL
-- **Technologies:** CUDA, ML/AI frameworks
+- **Languages:** C, C++, Java, Python, SQL
+- **Technologies:** CUDA, ML/AI, AWS (SA-A certified)
 - **Areas:** Low-level programming, Systems programming, Performance optimization
 
 
 ## 📚 Education
 
-- BTech from Vellore Instituite of Technology (VIT) (2021-2025)
+- Graduated from Vellore Instituite of Technology with a BTech (VIT) (2021-2025)
 
 ## 📫 Connect with Me
 
